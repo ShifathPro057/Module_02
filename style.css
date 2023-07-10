@@ -1,0 +1,26 @@
+.para{
+    width: 60%;
+    background-color: aqua;
+    border: 2px solid green;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 40px 20px 40px;
+}
+span{
+    color:blue;
+}
+.imgs img{
+    width: 45%;
+    height: 450px;
+}
+.para h2{
+    font-size: 40px;
+    font-weight: 400;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.para p{
+    text-align: justify;
+}
